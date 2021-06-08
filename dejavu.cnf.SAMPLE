@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "0757",
+        "database": "moc"
+    },
+    "database_type": "mysql"
+}
