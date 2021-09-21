@@ -1,7 +1,7 @@
 # MOC Project
 ### Project Discription :  
-A ministry of culture project that protects intellectual property on blockchain
-
+>A ministry of culture project that protects intellectual property on blockchain
+>Self-decentralizing to check plagiarism by cryptography methods without preserving the original file 
 ### Project Packages :  
 Python packages :　
 
